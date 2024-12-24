@@ -1,5 +1,7 @@
 # zk-lokomotive: Zero-Knowledge Based Multichain File Transfer System
 
+<a href="https://www.drips.network/app/projects/github/zk-Lokomotive/zk-lokomotive-core" target="_blank"><img src="https://www.drips.network/api/embed/project/https%3A%2F%2Fgithub.com%2Fzk-Lokomotive%2Fzk-lokomotive-core/support.png?background=blue&style=drips&text=project&stat=none" alt="Support zk-lokomotive-core on drips.network" height="32"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./zkl-light.svg">
   <img alt="ZKL logo" src="./zkl.svg">
